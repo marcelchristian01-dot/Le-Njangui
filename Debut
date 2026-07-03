@@ -1,0 +1,14 @@
+lib/
+├── main.dart
+├── screens/
+│   ├── login.dart
+│   ├── register.dart
+│   ├── dashboard.dart
+│   ├── deposit.dart
+│   ├── history.dart
+│   ├── profile.dart
+│   └── admin.dart
+├── models/
+├── services/
+├── widgets/
+└── utils/
